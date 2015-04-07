@@ -1,3 +1,32 @@
 \begin{thebibliography}{}
 
+\bibitem[Galland et~al., 2013]{Galland2013860}
+Galland, S., Gaud, N., Yasar, A.-U.-H., Knapen, L., Janssens, D., and Lamotte,
+  O. (2013).
+\newblock Simulation model of carpooling with the janus multiagent platform.
+\newblock {\em Procedia Computer Science}, 19(0):860 -- 866.
+\newblock The 4th International Conference on Ambient Systems, Networks and
+  Technologies (ANT 2013), the 3rd International Conference on Sustainable
+  Energy Information Technology (SEIT-2013).
+
+\bibitem[Galland et~al., 2014]{galland2014multi}
+Galland, S., Knapen, L., Gaud, N., Janssens, D., Lamotte, O., Koukam, A., Wets,
+  G., et~al. (2014).
+\newblock Multi-agent simulation of individual mobility behavior in carpooling.
+\newblock {\em Transportation Research Part C: Emerging Technologies},
+  45:83--98.
+
+\bibitem[Pacheco et~al., 2015]{10.1371/journal.pcbi.1004101}
+Pacheco, J.~M., Vasconcelos, V.~V., Santos, F.~C., and Skyrms, B. (2015).
+\newblock Co-evolutionary dynamics of collective action with signaling for a
+  quorum.
+\newblock {\em PLoS Comput Biol}, 11(2):e1004101.
+
+\bibitem[Vanoutrive et~al., 2009]{vanoutrive2009carpooling}
+Vanoutrive, T., Van~Malderen, L., Jourquin, B., Thomas, I., Verhetsel, A.,
+  Witlox, F., et~al. (2009).
+\newblock Carpooling and employers: a multilevel modelling approach.
+\newblock {\em proceedings of the BIVEC-GIBET Transport Research Day. Brussels,
+  VUBPRESS}, pages 335--349.
+
 \end{thebibliography}
