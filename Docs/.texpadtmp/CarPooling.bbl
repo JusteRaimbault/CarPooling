@@ -1,5 +1,42 @@
 \begin{thebibliography}{}
 
+\bibitem[Abrahamse and Keall, 2012]{Abrahamse201245}
+Abrahamse, W. and Keall, M. (2012).
+\newblock Effectiveness of a web-based intervention to encourage carpooling to
+  work: A case study of wellington, new zealand.
+\newblock {\em Transport Policy}, 21(0):45 -- 51.
+
+\bibitem[Bellemans et~al., 2012]{Bellemans20121221}
+Bellemans, T., Bothe, S., Cho, S., Giannotti, F., Janssens, D., Knapen, L.,
+  K{\"o}rner, C., May, M., Nanni, M., Pedreschi, D., Stange, H., Trasarti, R.,
+  Yasar, A.-U.-H., and Wets, G. (2012).
+\newblock An agent-based model to evaluate carpooling at large manufacturing
+  plants.
+\newblock {\em Procedia Computer Science}, 10(0):1221 -- 1227.
+\newblock \{ANT\} 2012 and MobiWIS 2012.
+
+\bibitem[Bruglieri et~al., 2011]{Bruglieri2011558}
+Bruglieri, M., Ciccarelli, D., Colorni, A., and Lu{\`e}, A. (2011).
+\newblock Poliunipool: a carpooling system for universities.
+\newblock {\em Procedia - Social and Behavioral Sciences}, 20(0):558 -- 567.
+\newblock The State of the Art in the European Quantitative Oriented
+  Transportation and Logistics Research -- 14th Euro Working Group on
+  Transportation \& 26th Mini Euro Conference \& 1st European Scientific
+  Conference on Air Transport.
+
+\bibitem[Cho et~al., 2012]{Cho2012801}
+Cho, S., Yasar, A.-U.-H., Knapen, L., Bellemans, T., Janssens, D., and Wets, G.
+  (2012).
+\newblock A conceptual design of an agent-based interaction model for the
+  carpooling application.
+\newblock {\em Procedia Computer Science}, 10(0):801 -- 807.
+\newblock \{ANT\} 2012 and MobiWIS 2012.
+
+\bibitem[Filcek and Gasior, 2014]{filcek2014common}
+Filcek, G. and Gasior, D. (2014).
+\newblock Common route planning for carpoolers--model and exact algorithm.
+\newblock In {\em Advances in Systems Science}, pages 543--551. Springer.
+
 \bibitem[Galland et~al., 2013]{Galland2013860}
 Galland, S., Gaud, N., Yasar, A.-U.-H., Knapen, L., Janssens, D., and Lamotte,
   O. (2013).
@@ -16,6 +53,14 @@ Galland, S., Knapen, L., Gaud, N., Janssens, D., Lamotte, O., Koukam, A., Wets,
 \newblock {\em Transportation Research Part C: Emerging Technologies},
   45:83--98.
 
+\bibitem[Knapen et~al., 2012]{Knapen2012821}
+Knapen, L., Keren, D., Yasar, A.-U.-H., Cho, S., Bellemans, T., Janssens, D.,
+  and Wets, G. (2012).
+\newblock Analysis of the co-routing problem in agent-based carpooling
+  simulation.
+\newblock {\em Procedia Computer Science}, 10(0):821 -- 826.
+\newblock \{ANT\} 2012 and MobiWIS 2012.
+
 \bibitem[Pacheco et~al., 2015]{10.1371/journal.pcbi.1004101}
 Pacheco, J.~M., Vasconcelos, V.~V., Santos, F.~C., and Skyrms, B. (2015).
 \newblock Co-evolutionary dynamics of collective action with signaling for a
@@ -28,5 +73,11 @@ Vanoutrive, T., Van~Malderen, L., Jourquin, B., Thomas, I., Verhetsel, A.,
 \newblock Carpooling and employers: a multilevel modelling approach.
 \newblock {\em proceedings of the BIVEC-GIBET Transport Research Day. Brussels,
   VUBPRESS}, pages 335--349.
+
+\bibitem[Yan and Chen, 2011]{Yan2011512}
+Yan, S. and Chen, C.-Y. (2011).
+\newblock A model and a solution algorithm for the car pooling problem with
+  pre-matching information.
+\newblock {\em Computers \& Industrial Engineering}, 61(3):512 -- 524.
 
 \end{thebibliography}
